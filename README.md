@@ -33,7 +33,12 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+<li> 
+   Reach me anytime: kotipalli.vasavi@gmail.com<br/><br/>
+</li>
+<li> 
+  Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
+ </li>
  📧 &emsp; Reach me anytime: kotipalli.vasavi@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
 
@@ -49,7 +54,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-d8dad3?style=for-the-badge&labelColor=black&logo=typescript&logoColor=d8dad3)
 ![Java](https://img.shields.io/badge/Java-a5c0a5?style=for-the-badge&labelColor=black&logo=typescript&logoColor=a5c0a5)
 ![Python](https://img.shields.io/badge/Python-566246?style=for-the-badge&labelColor=black&logo=Python&logoColor=566246)
-![C](https://img.shields.io/badge/Java-4A4A48?style=for-the-badge&labelColor=black&logo=C&logoColor=4A4A48)
+![C](https://img.shields.io/badge/C-4A4A48?style=for-the-badge&labelColor=black&logo=C&logoColor=4A4A48)
 ![C++](https://img.shields.io/badge/C%2B%2B-f1f2eb?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=f1f2eb)
 ![C#](https://img.shields.io/badge/C%23-d8dad3?style=for-the-badge&labelColor=black&logo=C%23&logoColor=d8dad3)
 ![Angular](https://img.shields.io/badge/-Angular-a5c0a5?style=for-the-badge&labelColor=black&logo=Angular&logoColor=a5c0a5)
