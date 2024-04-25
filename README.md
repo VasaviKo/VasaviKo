@@ -12,7 +12,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hi, My name is Vasavi Kotipalli
+        <samp> Hi, My name is Vasavi Kotipalli!
         </samp>
 </h3>
 
