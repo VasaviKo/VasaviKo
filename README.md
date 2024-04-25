@@ -39,8 +39,6 @@
 <li> 
   Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
  </li>
- 📧 &emsp; Reach me anytime: kotipalli.vasavi@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
 
 </p>
 
