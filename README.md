@@ -5,7 +5,7 @@
 </h2>
 -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=vasaviko">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -54,7 +54,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 📧 &emsp; Reach me anytime: kotipalli.vasavi.com<br/><br/>
+ 📧 &emsp; Reach me anytime: kotipalli.vasavi@gmail.comcom<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
 
 </p>
