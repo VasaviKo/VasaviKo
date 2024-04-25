@@ -6,7 +6,7 @@
 -->
 
 <a href="https://komarev.com/ghpvc/?username=vasaviko">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=vasaviko&label=Visitors&color=A5C0A5&style=flat" alt="Profile visitor" />
 </a>
 
 
