@@ -59,6 +59,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-a5c0a5?style=for-the-badge&logo=mongodb&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-566246?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-4A4A48?style=for-the-badge&logo=css3&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-a5c0a5?style=for-the-badge&logo=mui&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-f1f2eb?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-d8dad3?style=for-the-badge&logo=markdown&logoColor=black)
 ![React Query](https://img.shields.io/badge/-React_Query-a5c0a5?style=for-the-badge&logo=react%20query&logoColor=black)
