@@ -36,9 +36,6 @@
 <li> 
    Reach me anytime: kotipalli.vasavi@gmail.com<br/><br/>
 </li>
-<li> 
-  Ask me about anything [here](https://github.com/vasaviko/vasaviko/issues)
- </li>
 
 </p>
 
@@ -50,7 +47,7 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-f1f2eb?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f1f2eb)
 ![Typescript](https://img.shields.io/badge/Typescript-d8dad3?style=for-the-badge&labelColor=black&logo=typescript&logoColor=d8dad3)
-![Java](https://img.shields.io/badge/Java-a5c0a5?style=for-the-badge&labelColor=black&logo=typescript&logoColor=a5c0a5)
+![Java](https://img.shields.io/badge/Java-a5c0a5?style=for-the-badge&labelColor=black&logo=java&logoColor=a5c0a5)
 ![Python](https://img.shields.io/badge/Python-566246?style=for-the-badge&labelColor=black&logo=Python&logoColor=566246)
 ![C](https://img.shields.io/badge/C-4A4A48?style=for-the-badge&labelColor=black&logo=C&logoColor=4A4A48)
 ![C++](https://img.shields.io/badge/C%2B%2B-f1f2eb?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=f1f2eb)
